@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+
+.nav-bar {
+  background-color: cornflowerblue;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 0px;
+  padding: 0px;
+}
+
+.link-names {
+  margin-top: 10px;
+}
